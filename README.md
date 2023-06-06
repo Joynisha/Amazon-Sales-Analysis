@@ -1,5 +1,7 @@
 # Amazon-Sales-Analysis
 
+![Uploading Screenshot 2023-06-06 211814.png…]()
+
 #### Data Used
 Data - Amazon Sales with over 1466 rows from the year 2000 to 2020.
 

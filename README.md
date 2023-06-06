@@ -2,6 +2,7 @@
 
 #### Data Used
 Data - Amazon Sales with over 1466 rows from the year 2000 to 2020.
+
 Data Cleaning & Visualization - PowerBI
 
 #### KPI's

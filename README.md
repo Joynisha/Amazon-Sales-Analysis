@@ -1,9 +1,10 @@
 # Amazon-Sales-Analysis
+To analyse and gain more insights on the sales and revenue trend of different products and category over a period of time.
 
 ![Screenshot 2023-06-06 211814](https://github.com/Joynisha/Amazon-Sales-Analysis/assets/67499589/cb14786b-7d25-4998-be08-4d2547e51dfb)
 
 ### Data Used
-Data - Amazon Sales with over 1466 rows from the year 2000 to 2020.
+Data - Amazon Sales with over 1466 records.
 
 Data Cleaning & Visualization - PowerBI
 
